@@ -18,3 +18,8 @@ manual installation:
 
 automatic installation:
 * pip install -r requirements.txt
+
+# 3-Config file config.py
+You must enter some information in the config.py file.
+In line 4 of this file: you must replace your api_id with 0000000.
+In line 5 of this file: you need to replace your api_hash with e28cc5d85c66rr785422fe3bf50e61f
