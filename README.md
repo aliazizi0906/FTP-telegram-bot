@@ -39,3 +39,6 @@ You must enter some information in the config.py file.
 # 4-Run file bot.py
 Now everything is ready for you to launch your bot.
 * To do this, just enter the 'python3 bot.py' command.
+
+# Notice
+Because the FTP information is stored in the config.py file. Make sure you run the bot in a safe place.
