@@ -9,10 +9,7 @@ This is a Telegram bot and its working process is as follows:
 First, Download source files on a server equipped with Python
 
 # 2-Install Python Librarys
-You need 3 library to run this robot.
-1- Pyrogram
-2- aioftp
-3- asyncio
+You need 3 library to run this robot.(Pyrogram, aioftp, asyncio)
 To install libraries, we follow two methods: manual installation and automatic installation.
 manual installation:
 $ pip install Pyrogram
