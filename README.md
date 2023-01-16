@@ -33,3 +33,7 @@ You must enter some information in the config.py file.
 * In line 32: You must enter your FTP access username.
 * In line 33: You must enter your FTP access password
 * In line 34: You must enter the address of your domain.
+
+# 4-Run file bot.py
+Now everything is ready for you to launch your bot.
+* To do this, just enter the 'python3 bot.py' command.
