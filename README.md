@@ -15,5 +15,6 @@ manual installation:
 * pip install Pyrogram
 * pip install aioftp
 * pip install asyncio
+
 automatic installation:
-$ pip install -r requirements.txt
+* pip install -r requirements.txt
