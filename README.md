@@ -12,8 +12,8 @@ First, Download source files on a server equipped with Python
 You need 3 library to run this robot.(Pyrogram, aioftp, asyncio)
 To install libraries, we follow two methods: manual installation and automatic installation.
 manual installation:
-$ pip install Pyrogram
-$ pip install aioftp
-$ pip install asyncio
+* pip install Pyrogram
+* pip install aioftp
+* pip install asyncio
 automatic installation:
 $ pip install -r requirements.txt
