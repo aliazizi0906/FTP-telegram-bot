@@ -3,10 +3,14 @@
 start_text = '''
 Hello, this is an FTP management bot
 To start, send your file to the robot
+this robot maded by : Ali Azizi
+https://github.com/aliazizi0906
 '''
 
 file_name_error = '''
 ⚠️ Unfortunately, an error occurred while processing the file name.
+this robot maded by : Ali Azizi
+https://github.com/aliazizi0906
 '''
 
 dl_text = '📥 Downloading from Telegram servers...'
@@ -21,4 +25,7 @@ The upload to the host was done successfully✅
 🔅 File download link: 
 🔗 {}{}
 .
+
+this robot maded by : Ali Azizi
+https://github.com/aliazizi0906
 '''
